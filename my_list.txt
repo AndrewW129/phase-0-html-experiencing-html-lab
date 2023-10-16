@@ -1,0 +1,8 @@
+
+
+"Monstera Deliciosa"
+"Fiddle Leaf Fig"
+"Pilea"                    // content
+"Golden Pothos"
+"Peace Lily"
+
